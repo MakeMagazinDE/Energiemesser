@@ -6,7 +6,7 @@ Maker Media GmbH
 
 # Universaler Fräs- und Sägetisch
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Wir verwandeln einen geeichten Energie- und Leistungsmesser in ein Smart Meter für Wallboxen und Wärmepumpen.
 
 Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
 
